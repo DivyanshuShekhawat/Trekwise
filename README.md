@@ -71,7 +71,7 @@ Welcome to **Trakwise**, the ultimate AI-powered finance platform that makes man
   </tr>
   <tr>
     <td width="100%" align="center">
-      <img src="https://res.cloudinary.com/dzduidnoo/image/upload/v1743442725/Screenshot_2025-03-31_225215_abclex.png" width="80%" alt="Create Transaction" />
+      <img src="https://res.cloudinary.com/dc2cgsjrr/image/upload/v1747149517/ss7_tbzwzk.jpg" width="80%" alt="Create Transaction" />
       <p><em>Create Transaction Form</em></p>
     </td>
   </tr>
@@ -101,13 +101,13 @@ Welcome to **Trakwise**, the ultimate AI-powered finance platform that makes man
   </tr>
   <tr>
     <td width="100%" align="center">
-      <img src="https://res.cloudinary.com/dzduidnoo/image/upload/v1743442726/Screenshot_2025-03-31_230226_j0ipni.png" width="80%" alt="Account Page 1" />
+      <img src="https://res.cloudinary.com/dc2cgsjrr/image/upload/v1747149517/ss5_kuy3xx.jpg" width="80%" alt="Account Page 1" />
       <p><em>Account Settings</em></p>
     </td>
   </tr>
   <tr>
     <td width="100%" align="center">
-      <img src="https://res.cloudinary.com/dzduidnoo/image/upload/v1743442726/Screenshot_2025-03-31_230247_jcpl1b.png" width="80%" alt="Account Page 2" />
+      <img src="https://res.cloudinary.com/dc2cgsjrr/image/upload/v1747149517/ss4_o4470n.jpg" width="80%" alt="Account Page 2" />
       <p><em>Profile Details</em></p>
     </td>
   </tr>
