@@ -83,13 +83,13 @@ Welcome to **Trakwise**, the ultimate AI-powered finance platform that makes man
   </tr>
   <tr>
     <td width="100%" align="center">
-      <img src="https://res.cloudinary.com/dzduidnoo/image/upload/v1743442726/Screenshot_2025-03-31_230420_yfrjvx.png" width="80%" alt="Dashboard 1" />
+      <img src="https://res.cloudinary.com/dc2cgsjrr/image/upload/v1747149517/ss6_kv9dsc.jpg" width="80%" alt="Dashboard 1" />
       <p><em>Financial Overview</em></p>
     </td>
   </tr>
   <tr>
     <td width="100%" align="center">
-      <img src="https://res.cloudinary.com/dzduidnoo/image/upload/v1743442726/Screenshot_2025-03-31_230431_genxpy.png" width="80%" alt="Dashboard 2" />
+      <img src="https://res.cloudinary.com/dc2cgsjrr/image/upload/v1747149739/Screenshot_2025-05-13_201712_wxqhzi.png" width="80%" alt="Dashboard 2" />
       <p><em>Spending Analysis</em></p>
     </td>
   </tr>
