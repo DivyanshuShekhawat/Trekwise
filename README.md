@@ -120,20 +120,20 @@ Welcome to **Trakwise**, the ultimate AI-powered finance platform that makes man
   <tr>
     <td width="100%" align="center">
       <h4>Budget Alert</h4>
-      <img src="https://res.cloudinary.com/dzduidnoo/image/upload/v1743442731/Screenshot_2025-03-31_230643_lhhlse.png" width="80%" alt="Budget Alert" />
+      <img src="https://res.cloudinary.com/dc2cgsjrr/image/upload/v1747149517/ss3_c0ou9z.jpg" width="80%" alt="Budget Alert" />
       <p><em>Budget Alert Email</em></p>
     </td>
   </tr>
   <tr>
     <td width="100%" align="center">
       <h4>Monthly Reports</h4>
-      <img src="https://res.cloudinary.com/dzduidnoo/image/upload/v1743442732/Screenshot_2025-03-31_230702_ek99us.png" width="80%" alt="Monthly Analysis" />
+      <img src="https://res.cloudinary.com/dc2cgsjrr/image/upload/v1747149517/ss2_l07vxt.jpg" width="80%" alt="Monthly Analysis" />
       <p><em>Monthly Analysis Report</em></p>
     </td>
   </tr>
   <tr>
     <td width="100%" align="center">
-      <img src="https://res.cloudinary.com/dzduidnoo/image/upload/v1743442822/Screenshot_2025-03-31_231000_kbgbcn.png" width="80%" alt="AI Insights" />
+      <img src="https://res.cloudinary.com/dc2cgsjrr/image/upload/v1747149517/ss1_rhdoe5.jpg" width="80%" alt="AI Insights" />
       <p><em>AI-Generated Insights</em></p>
     </td>
   </tr>
