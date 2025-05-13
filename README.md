@@ -158,7 +158,7 @@ Welcome to **Trakwise**, the ultimate AI-powered finance platform that makes man
 ## 🔗 Deployment & Repository
 
 - **Deployed on**: [Vercel](https://vercel.com/)
-- **Source Code**: [GitHub Repository](https://github.com/your-username/your-repo)
+- **Source Code**: [GitHub Repository](https://github.com/DivyanshuShekhawat/Trekwise)
 
 ---
 
@@ -182,7 +182,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## 🤝 Contact
 
-- **Project Link**: [GitHub Repository](https://github.com/your-username/your-repo)
+- **Project Link**: [GitHub Repository](https://github.com/DivyanshuShekhawat/Trekwise)
 - For any questions or feedback, please feel free to open an issue.
 
 ---
