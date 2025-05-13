@@ -1,4 +1,4 @@
-# Trakwise - AI Finance Platform 💰🤖
+# Trakwise - AI Finance Platform 
 
 ## 🌐 [LIVE DEMO](https://trekwise.vercel.app/) 🚀
 
