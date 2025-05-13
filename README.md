@@ -1,6 +1,6 @@
 # Trakwise - AI Finance Platform 💰🤖
 
-## 🌐 [LIVE DEMO](https://Welth-ai-finance-platform-ls3y.vercel.app/) 🚀
+## 🌐 [LIVE DEMO](https://trekwise.vercel.app/) 🚀
 
 Welcome to **Trakwise**, the ultimate AI-powered finance platform that makes managing your money effortless and smart! Track multiple accounts, monitor transactions, and receive insightful AI-driven analyses all in one elegant app.
 
@@ -157,7 +157,7 @@ Welcome to **Trakwise**, the ultimate AI-powered finance platform that makes man
 
 ## 🔗 Deployment & Repository
 
-- **Deployed on**: [Vercel](https://vercel.com/)
+- **Deployed on**: [Vercel](https://trekwise.vercel.app/)
 - **Source Code**: [GitHub Repository](https://github.com/DivyanshuShekhawat/Trekwise)
 
 ---
