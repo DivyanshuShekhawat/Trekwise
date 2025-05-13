@@ -35,7 +35,8 @@ Welcome to **Trakwise**, the ultimate AI-powered finance platform that makes man
   </tr>
   <tr>
     <td width="100%" align="center">
-      <img src="https://res.cloudinary.com/dzduidnoo/image/upload/v1743441495/Screenshot_2025-03-31_224550_iqhwsq.png" width="80%" alt="Home Page 1" />
+      <img src="[https://res.cloudinary.com/dzduidnoo/image/upload/v1743441495/Screenshot_2025-03-31_224550_iqhwsq.png](https://collection.cloudinary.com/dc2cgsjrr/e99a66d2f5503c826cfcea461d2a9b18)" width="80%" alt="Home Page 1" />
+      https://collection.cloudinary.com/dc2cgsjrr/e99a66d2f5503c826cfcea461d2a9b18
       <p><em>Home Screen 1</em></p>
     </td>
   </tr>
