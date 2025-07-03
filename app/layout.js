@@ -9,6 +9,7 @@ const inter = Inter({subsets:["latin"]});
 export const metadata = {
   title: "Trakwise",
   description: "One stop Finance Platform",
+  google_site_verification: "wEfsC2ZnbWZHcz7M2Wmd-lmb6doNJDJaj-cEUeTwyOo",
 };
 
 export default function RootLayout({ children }) {
